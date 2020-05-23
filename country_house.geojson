@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "участок"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.21667957305908,
+              51.837189589517095
+            ],
+            [
+              45.218385457992554,
+              51.83811105671911
+            ],
+            [
+              45.21822452545166,
+              51.83825026954876
+            ],
+            [
+              45.216357707977295,
+              51.83726251206912
+            ],
+            [
+              45.21663665771484,
+              51.83707026144994
+            ],
+            [
+              45.21667957305908,
+              51.837189589517095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "домик в деревне"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.21666884422302,
+          51.83727577070226
+        ]
+      }
+    }
+  ]
+}
