@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stroke": "#000000",
+        "stroke-width": "",
+        "name": "домик в древне"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.21668493747711,
+          51.837277428031136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "мой участок в деревне"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.21665275096893,
+              51.837156442863495
+            ],
+            [
+              45.217827558517456,
+              51.83779616896895
+            ],
+            [
+              45.217607617378235,
+              51.83793869738129
+            ],
+            [
+              45.21645963191986,
+              51.83727245604435
+            ],
+            [
+              45.21665275096893,
+              51.837156442863495
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
